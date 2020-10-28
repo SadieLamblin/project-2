@@ -1,0 +1,99 @@
+nav {
+	color:white;
+}
+
+.jumbotron.row {
+	padding:0;
+}
+
+div.container.main {
+	background:lightgray;
+}
+
+
+a {
+	padding-right:3%;
+}
+
+
+div.jumbotron.row {
+	border-top-style: ridge;
+	border-left-style: ridge;
+	border-right-style: ridge;
+	border-bottom-style: solid;
+	border-bottom-color:white;
+	margin-bottom: 0;
+}
+div.row.body {
+	background:lightgray;
+	border-style:solid;
+	border-color:white;
+}
+
+
+div.col-8 {
+	border-right-style:solid;
+	border-right-color:white;
+}
+
+div.container-fluid.footer {
+	background:gainsboro;
+}
+ p.quote {
+	padding-left:70%;
+}
+
+p {
+	font-size: 13px
+}
+
+body {
+	background-color:lightgrey;
+}
+
+div h3 {
+	font-size: 20px;
+
+}
+
+div h4 {
+	font-size: 15px;
+}
+
+div h6 {
+	font-size: 11px;
+	font-weight: bold;
+	padding-top: 10px;
+}
+
+
+div h5 {
+	font-size: 15px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	padding-left: 35px;
+}
+
+button {
+	color: white;
+	background: grey;
+	padding: 2px;
+	font-size: 2px;
+}
+
+div.col-3.services {
+	padding-right: 60px;
+}
+
+div.col-3.team {
+	padding-left: 60px;
+}
+
+div.col-3.press {
+	padding-right: 60px;
+}
+
+
+div.col-3.ref {
+	padding-right: 60px;
+}
